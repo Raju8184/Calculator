@@ -30,5 +30,4 @@ A simple and interactive calculator built using **HTML**, **CSS**, and **vanilla
 
 ---
 
-## 📦 File Structure
 
